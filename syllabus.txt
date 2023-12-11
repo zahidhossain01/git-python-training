@@ -1,0 +1,28 @@
+GIT:
+Installing Git (set PATH)
+creating/initializing repo locally
+linking to upstream (GitHub)
+diff concepts
+branches, merging branches
+pull requests (from branch, but also from fork?)
+
+
+PYTHON:
+installing python (set PATH)
+
+script vs module (if __name__ == "__main__")
+    python -m vs python
+    py vs python vs python3 command
+
+everything is a label/object
+objects
+datatypes: int, float, str, list, dict, tuple (+ etc like bytes I guess?)
+control: while, for, break, continue
+    iterators (explain what range(n) really does)
+    basic "for i in range" and then "for thing in (iterator)" and "for t1,t2 in iterator", also showing that "for (t1,t2) in iterator" is same as no parentheses
+    also the "for _ in iterator"
+    list comprehension
+operators: / vs //, ^^ vs ^, bitwise operators vs logical operators (! vs not) - also operator precedence but not super important
+classes: constructors, self, inheritance
+
+
