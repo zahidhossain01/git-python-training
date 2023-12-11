@@ -1,11 +1,15 @@
 GIT:
 Installing Git (set PATH)
 creating/initializing repo locally
-linking to upstream (GitHub)
+linking to upstream (GitHub) - also show how VSCode makes this really easy
+git status
+git log (--oneline --nograph?)
 diff concepts
 branches, merging branches
 pull requests (from branch, but also from fork?)
 
+* side thing, installing Oh-My-Posh for git status theme stuff
+* fun for side reading later notes if curious: semantic versioning (https://semver.org/)
 
 PYTHON:
 installing python (set PATH)
